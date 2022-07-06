@@ -1,0 +1,55 @@
+-------------------------------------------------------------
+
+░█████╗░███████╗░░░░░░██████╗░██╗███████╗███████╗░█████╗░░█████╗░░█████╗░██████╗░
+██╔══██╗╚════██║░░░░░░██╔══██╗██║╚════██║╚════██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+███████║░░███╔═╝█████╗██████╔╝██║░░███╔═╝░░███╔═╝███████║██║░░╚═╝███████║██████╔╝
+██╔══██║██╔══╝░░╚════╝██╔═══╝░██║██╔══╝░░██╔══╝░░██╔══██║██║░░██╗██╔══██║██╔══██╗
+██║░░██║███████╗░░░░░░██║░░░░░██║███████╗███████╗██║░░██║╚█████╔╝██║░░██║██║░░██║
+╚═╝░░╚═╝╚══════╝░░░░░░╚═╝░░░░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+
+-------------------------------------------------------------
+
+Gracias por usar Audaz Dominos Pizza Car !
+
+-------------------------------------------------------------
+Pasos de instalacion :
+
+- Meter el az_dominoscar en nuestros resources 
+- Ir al final del server.cfg y poner lo siguiente
+
+#----AUDAZ-PIZZA----#
+ensure az_pizzcar
+
+¡ Y ya estaria listo para usar !
+
+-------------------------------------------------------------
+
+Mis redes :
+
+--> Podreis contactar por alli en caso de que lo necessiteis :
+  │
+  │- Discord : audaz#0001
+  │
+  │- Instagram : _.huugo0._
+  │
+  │- Mi GitHub : audaz-AZ
+
+-------------------------------------------------------------
+
+Info : Es un add-on el name del coche para spawnearlo es /car vwcaddy
+
+-------------------------------------------------------------
+
+NO IMPORTANTE , NO HACE FALTA LEER.
+
+CC : az_pizzacar by audaz is licensed under a Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License.
+
+DMCA : Protection: This Uniform Resource Locator az_pizzacar is owned or published under permission by the owner of this channel. 
+The audio and or video presentation is original content and or contains original content published under permission including but not limited to text, design, images, 
+photographs, audio and video and are considered to be the Intellectual Property of the owner of this channel, whether copyrighted or not,
+and are protected by DMCA.com Protection Pro Service using but not limited to the Digital Millennium Copyright Act Title 17 Chapter 512 (c)(3).
+Reproduction or re-publication of this content is prohibited without permission. This statement and the protection service connected to it is no way a replacement of or 
+connected to any similar statements or services provided to the content owner by this service platform.
+
+
+-------------------------------------------------------------
